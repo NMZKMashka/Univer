@@ -20,6 +20,7 @@ public class JavaApplication9 {
         // TODO code application logic here
         
          Scanner sc1 = new Scanner(System.in);
+         
         System.out.print("Введите строку 1: ");
         String s1 = sc1.nextLine();
         System.out.print("Введите строку 2: ");
